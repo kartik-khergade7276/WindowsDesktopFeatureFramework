@@ -1,6 +1,6 @@
 # Windows Desktop Feature Framework (WPF + MVVM + DI)
 
-A ready-to-run starter project that demonstrates:
+ project demonstrates:
 - WPF UI with a clean layout
 - MVVM structure (ViewModels, Commands)
 - Simple navigation (Home/Settings)
